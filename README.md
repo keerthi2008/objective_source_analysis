@@ -38,8 +38,6 @@ Created a Horizontal Bar Chart to display the usage of different information sou
 ##Tools Used
 Microsoft Excel
 
-GitHub
-
 ##Outcome:
 
 This analysis helps understand the primary goals behind participants' savings and the common sources they rely on for investment information.
